@@ -16,7 +16,7 @@
         public int Homerseklet { get; set; }
 
     }
-    class Program
+    public class Program
     {
         static List<Idojaras> idojaras = new List<Idojaras>();
         static void Main(string[] args)
